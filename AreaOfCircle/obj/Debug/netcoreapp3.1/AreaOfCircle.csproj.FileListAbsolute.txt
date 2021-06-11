@@ -1,0 +1,12 @@
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.exe
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.dll
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.dll
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.genruntimeconfig.cache
